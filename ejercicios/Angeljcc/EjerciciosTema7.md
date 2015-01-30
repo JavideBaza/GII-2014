@@ -90,8 +90,10 @@ $ sudo apt-get install ansible
 ```
 y con esto configura todos los paquetes, ahora podemos conectar. pero antes tenemos que añadir el host al siguiente archivo: `/etc/ansible/hosts`
 Añadimos el host donde queremos que Ansible se conecte, en este caso a nuestra MV de azure.
+
 ![](capturas/eje4tema7_1.png)
-Y vemos que se ha conectado. Ahora procedemos a instalar una aplicación, en este caso me decido por instalar python para la practica de DAI, procedemos con:
+
+Y vemos que se ha conectado. Ahora procedemos instalar una aplicación, en este caso me decido por instalar python para la practica de DAI, procedemos con:
 ``` bash
 ansible all -u azureuser -m command -a "sudo apt-get install git python"
 ansible all -u azureuser -m command -a "sudo apt-get install python-pip -y"
