@@ -345,3 +345,28 @@ Commits:
 Algunos commits no se han incluido por tener solo pequeñas modificaciones para corregir comportamientos del sistema o errores (que se iban intentando solucionar con otros commits precedentes) y que no suponen grandes aportes respecto a los aquí presentados. Además, se ha tratado de listar los contenidos que son solo de la asignatura
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
+
+###[VirtualBoard](https://github.com/IV-2014/VirtualBoard)
+
+Integrantes:
+
+* [Javier Aranda Izquierdo](https://github.com/JavideBaza)
+* [Angel Jimenez de Cisneros Carreño](https://github.com/angeljcc)
+* [David Castellon Rodriguez](https://github.com/divadcr)
+* [Juan Marquina Garcia](https://github.com/marquina91)
+* [Eduardo J. Polo Gozalez](https://github.com/marquina91)
+
+
+####[Documentación del proyeto](https://github.com/IV-2014/VirtualBoard/blob/master/Documentacion/Documentacion.md)
+
+####[Licencia del proyecto](https://github.com/IV-2014/VirtualBoard/blob/master/LICENSE)
+
+####[Despliegue en OpenShift](http://virtualboardphp-virtualboard.rhcloud.com/)
+
+####[Despliegue en Azure](http://virtualboard.cloudapp.net/)
+
+####[Issues y commits de cada integrante del grupo](https://github.com/IV-2014/VirtualBoard/blob/master/Documentacion/referencias.md)
+
+
+
