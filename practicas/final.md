@@ -355,7 +355,7 @@ Integrantes:
 * [Angel Jimenez de Cisneros Carreño](https://github.com/angeljcc)
 * [David Castellon Rodriguez](https://github.com/divadcr)
 * [Juan Marquina Garcia](https://github.com/marquina91)
-* [Eduardo J. Polo Gozalez](https://github.com/marquina91)
+* [Eduardo J. Polo Gozalez](https://github.com/edupg1)
 
 
 ####[Documentación del proyeto](https://github.com/IV-2014/VirtualBoard/blob/master/Documentacion/Documentacion.md)
